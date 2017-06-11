@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: replacing-half-space\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-30 11:44+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mostafa <mst404@gmail.com>\n"
+"Language-Team: Iran98 <mst404@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:52
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:76
+msgid "Virastar configuration"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:52
+msgid "Virastar"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:57
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:81
+msgid "Half-Space settings"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:84
+msgid "Half-Space in Posts:"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:90
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:129
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:138
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:148
+msgid "Convert"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:90
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:129
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:138
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:148
+msgid "Instead of"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:93
+msgid "Half-Space in Comments:"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:102
+msgid "Half-Space in Tags:"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:108
+msgid "Does not change the permalink."
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:111
+msgid "Half-Space in Title:"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:117
+msgid "As for Post title And Page title"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:120
+msgid "Settings to display letters and numbers"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:123
+msgid "Show Persian numbers instead of English numbers"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:132
+msgid "Show Persian numbers instead of Arabic numbers"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:140
+msgid "Links in post will change! If you use the plugin wp-jalali need not to enable this part."
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:142
+msgid "Show Persian Words instead of Arabic Words"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:152
+msgid "Link to Word settings"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:153
+msgid "Using this feature can The content post a link to put certain words."
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:158
+msgid "Selected words into a link:"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:164
+msgid "Enabled."
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:175
+msgid "Total words:"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:177
+msgid "Please insert the new option of a new line (NewLine) use."
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:178
+msgid "Please link to isolate as the use of ==."
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:179
+msgid "For example"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:194
+msgid "Update"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:199
+msgid "Website Plugin"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:199
+msgid "Wordpress Delicious!"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:238
+msgid "Enter your text in Persian:"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:242
+msgid "Editor Now!"
+msgstr ""
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:249
+msgid "Modified Text:"
+msgstr ""
+

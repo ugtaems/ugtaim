@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: replacing-half-space\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-30 11:44+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mostafa <mst404@gmail.com>\n"
+"Language-Team: Iran98 <mst404@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:52
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:76
+msgid "Virastar configuration"
+msgstr "تنظیمات ویراستار"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:52
+msgid "Virastar"
+msgstr "ویراستار"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:57
+msgid "You do not have sufficient permissions to access this page."
+msgstr "شما برای دیدن این برگه مجوز کافی ندارید."
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:81
+msgid "Half-Space settings"
+msgstr "تنظیمات نیم‌فاصله"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:84
+msgid "Half-Space in Posts:"
+msgstr "نیم‌فاصله در نوشته‌ها:"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:90
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:129
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:138
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:148
+msgid "Convert"
+msgstr "تبدیل"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:90
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:129
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:138
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:148
+msgid "Instead of"
+msgstr "به‌جای"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:93
+msgid "Half-Space in Comments:"
+msgstr "نیم‌فاصله در دیدگاه‌ها:"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:102
+msgid "Half-Space in Tags:"
+msgstr "نیم‌فاصله در برچسب‌ها:"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:108
+msgid "Does not change the permalink."
+msgstr "پیوندیکتا را تغییر نمی‌دهد."
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:111
+msgid "Half-Space in Title:"
+msgstr "نیم‌فاصله در عنوان:"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:117
+msgid "As for Post title And Page title"
+msgstr "عنوان نوشته و برگه‌ها"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:120
+msgid "Settings to display letters and numbers"
+msgstr "تنظیمات مربوط به نمایش حروف و اعداد"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:123
+msgid "Show Persian numbers instead of English numbers"
+msgstr "نمایش اعداد فارسی به‌جای اعداد انگلیسی"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:132
+msgid "Show Persian numbers instead of Arabic numbers"
+msgstr "نمایش اعداد فارسی به‌جای اعداد عربی"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:140
+msgid "Links in post will change! If you use the plugin wp-jalali need not to enable this part."
+msgstr "پیوندها در نوشته تغییر می‌کند! اگر از افزونه‌ی جلالی استفاده می‌کنید, نیازی به فعال کردن این قسمت نیست."
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:142
+msgid "Show Persian Words instead of Arabic Words"
+msgstr "نمایش کلمه‌های فارسی به‌جای کلمه‌های عربی"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:152
+msgid "Link to Word settings"
+msgstr "تنظیمات پیوند به کلمه"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:153
+msgid "Using this feature can The content post a link to put certain words."
+msgstr "این ویژگی می‌تواند در محتوا برروی کلمه‌هایی یک پیوند خاصی را قرار دهد."
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:158
+msgid "Selected words into a link:"
+msgstr "تبديل كلمات انتخاب شده به لينك :"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:164
+msgid "Enabled."
+msgstr "فعال باشد."
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:175
+msgid "Total words:"
+msgstr "کل کلمه‌ها:"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:177
+msgid "Please insert the new option of a new line (NewLine) use."
+msgstr "لطفا براي درج گزينه جديد از خط جديد (NewLine) استفاده كنيد."
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:178
+msgid "Please link to isolate as the use of ==."
+msgstr "لطفا براي جداسازي عنوان از لينك از == استفاده كنيد ."
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:179
+msgid "For example"
+msgstr "به‌طور مثال:"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:194
+msgid "Update"
+msgstr "به‌روز رسانی"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:199
+msgid "Website Plugin"
+msgstr "وب‌سایت افزونه"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:199
+msgid "Wordpress Delicious!"
+msgstr "وردپرس خوش‌مزه!"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:238
+msgid "Enter your text in Persian:"
+msgstr "متن خود را به فارسی وارد کنید:"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:242
+msgid "Editor Now!"
+msgstr "ویراستار کن!"
+
+#: F:\Program
+#: Files\wamp\www\wordpress\wp-content\plugins\replacing-half-space/replacing-half-space.php:249
+msgid "Modified Text:"
+msgstr "متن اصلاح شده:"
+
+#~ msgid "Ok"
+#~ msgstr "تایید"
+#~ msgid "Up to 9 words are supported."
+#~ msgstr "تا 9 کلمه را پشتیبانی می‌کند."
+#~ msgid "Need More Word?"
+#~ msgstr "کلمه‌های بیشتری نیاز دارید؟"
+#~ msgid "Contact"
+#~ msgstr "تماس"
+#~ msgid "After entering this section, click \"OK \" button."
+#~ msgstr "بعد از انتخاب, دکمه \"تایید\" را بزنید."
+#~ msgid "Word"
+#~ msgstr "کلمه"
+#~ msgid "Link"
+#~ msgstr "پیوند"
+

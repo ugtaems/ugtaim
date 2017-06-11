@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.7" type="plugin" group="system" method="upgrade">
+  <name>WWM Product Zoom for Virtuemart</name>
+  <creationDate>Dec, 2013</creationDate>
+  <author>Jobin Jose</author>
+  <copyright>Copyright (C)2013 www.walkswithme.net</copyright>
+  <license>GNU General Public License version 2 or later</license>
+  <authorEmail>jobinjose01@gmail.com</authorEmail>
+  <authorUrl>http://www.walkswithme.net</authorUrl>
+  <version>1.0</version>
+  <description>Just enable the WWM Product Zoom for Virtuemart plugin and set your configuration on the right side.
+    <![CDATA[<ul>
+      <li><a href="http://www.walkswithme.net/joomla-virtuemart-product-image-zoom">Documentation</a></li>
+      <li><a href="http://www.walkswithme.net/joomla-virtuemart-product-image-zoom">Support</a></li>
+      <li><a href="http://www.walkswithme.net/category/joomla-programming">More Joomla Plugins</a></li>
+	  <li>This plugin is inspired from another plugin<a href="http://joomquery.com/vt-virtuemart-product-images-cloud-zoom">VT Virtuemart Product Images Cloud Zoom</a></li>
+      </ul>
+      <a href="http://www.walkswithme.net">
+      <img alt="walkswithme" src="http://www.walkswithme.net/wp-content/themes/MeetGavernWP/images/gavernwp.png"></a>]]>
+  </description>
+  <files>
+    <filename plugin="vmwwmzoom">vmwwmzoom.php</filename>
+    <filename>vmwwmzoom.xml</filename>
+    <filename>index.html</filename>
+    <filename>css/index.html</filename>
+	<filename>css/wwm_zoom.css</filename>
+    <filename>images/index.html</filename>
+	<filename>images/ajax-loader.gif</filename>
+	<filename>images/blank.png</filename>
+	<filename>images/slider-arrow.png</filename>
+    <filename>js/index.html</filename>
+	<filename>js/wwm_zoom.js</filename>
+	<filename>js/cycle.js</filename>
+  </files>
+  <languages>
+    <language tag="en-GB">en-GB.plg_system_vmwwmzoom.ini</language>
+    <language tag="en-GB">en-GB.plg_system_vmwwmzoom.sys.ini</language>
+  </languages>
+  <config>
+    <fields name="params">
+      <fieldset name="basic">
+        <field name="containerwidth" type="text" default="300" label="PLG_WWM_VMZOOM_CWIDTH" description="PLG_WWM_VMZOOM_CWIDTH_DESC"/>
+        <field name="imageWidth" type="text" default="300" label="PLG_WWM_VMZOOM_IMWIDTH" description="PLG_WWM_VMZOOM_IMWIDTH_DESC"/>
+        <field name="imageHeight" type="text" default="300" label="PLG_WWM_VMZOOM_IMHEIGHT" description="PLG_WWM_VMZOOM_IMHEIGHT_DESC"/>
+        <field name="thumbimageWidth" type="text" default="75" label="PLG_WWM_VMZOOM_TWIDTH" description="PLG_WWM_VMZOOM_TWIDTH_DESC"/>
+        <field name="thumbimageHeight" type="text" default="75" label="PLG_WWM_VMZOOM_THEIGHT" description="PLG_WWM_VMZOOM_THEIGHT_DESC"/>
+        <field name="spacer" type="spacer" label="PLG_WWM_VMZOOM_SLIDER" description="PLG_WWM_VMZOOM_SLIDER_DESC"/>
+        <field name="slider" type="radio" default="1" label="PLG_WWM_VMZOOM_SLIDEREB" description="PLG_WWM_VMZOOM_SLIDEREB_DESC">
+          <option value="1">ON</option>
+          <option value="0">OFF</option>
+        </field>
+        <field name="zoomType" type="list" default="standard" label="PLG_WWM_VMZOOM_ZOOMTP" description="PLG_WWM_VMZOOM_ZOOMTP_DESC">
+          <option value="standard">Standard</option>
+          <option value="innerzoom">Innerzoom</option>
+        </field>
+        <field name="enable_product_title" type="radio" default="1" label="PLG_WWM_VMZOOM_PRODUCTTITLE" description="PLG_WWM_VMZOOM_PRODUCTTITLE_DESC">
+          <option value="1">YES</option>
+          <option value="0">NO</option>
+        </field>
+      </fieldset>
+      <fieldset name="advanced">
+        <field name="show_jquery" type="list" default="1" label="PLG_WWM_VMZOOM_EBJQ" description="PLG_WWM_VMZOOM_EBJQ_DESC">
+          <option value="1">ON</option>
+          <option value="0">OFF</option>
+        </field>
+      </fieldset>
+    </fields>
+  </config>
+</extension>

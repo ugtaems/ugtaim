@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MW Font Changer\n"
+"POT-Creation-Date: 2015-09-04 11:08+0330\n"
+"PO-Revision-Date: 2015-09-04 11:08+0330\n"
+"Last-Translator: Ghaem Omidi <ghaemomidi@yahoo.com>\n"
+"Language-Team: Ghaem Omidi <ghaemomidi@yahoo.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../parsi-font.php:511
+msgid "MW Font Changer - Dashboard Font"
+msgstr "فونت ماندگار - فونت پیشخوان"
+
+#: ../parsi-font.php:531
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شدند."
+
+#: ../parsi-font.php:541
+msgid "Font Size (px)"
+msgstr "اندازه فونت (پیکسل)"
+
+#: ../parsi-font.php:545
+msgid "Select Font Size"
+msgstr "- - - اندازه فونت را انتخاب کنید - - -"
+
+#: ../parsi-font.php:567 ../parsi-font.php:883 ../parsi-font.php:983
+#: ../parsi-font.php:1082 ../parsi-font.php:1185 ../parsi-font.php:1307
+#: ../parsi-font.php:1429
+msgid "Font Family"
+msgstr "نام فونت"
+
+#: ../parsi-font.php:572
+msgid "Select font from list or type a font name below"
+msgstr "فونت خود را از لیست زیر انتخاب نمایید"
+
+#: ../parsi-font.php:573 ../parsi-font.php:887 ../parsi-font.php:987
+#: ../parsi-font.php:1086 ../parsi-font.php:1189 ../parsi-font.php:1311
+#: ../parsi-font.php:1433
+msgid "Persian Fonts"
+msgstr "فونت های پارسی"
+
+#: ../parsi-font.php:620 ../parsi-font.php:909 ../parsi-font.php:1009
+#: ../parsi-font.php:1108 ../parsi-font.php:1211 ../parsi-font.php:1333
+#: ../parsi-font.php:1455
+msgid "Latin Fonts"
+msgstr "فونت های لاتین"
+
+#: ../parsi-font.php:633 ../parsi-font.php:915 ../parsi-font.php:1015
+#: ../parsi-font.php:1114 ../parsi-font.php:1217 ../parsi-font.php:1339
+#: ../parsi-font.php:1461
+msgid "Fonts Combination"
+msgstr "ترکیب فونت ها"
+
+#: ../parsi-font.php:716
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: ../parsi-font.php:720
+msgid "This text is just to test."
+msgstr "This text is just to test."
+
+#: ../parsi-font.php:727 ../parsi-font.php:1542
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: ../parsi-font.php:770
+msgid "MW Font Changer - Feedback"
+msgstr "فونت ماندگار - انتقادات و پیشنهادات"
+
+#: ../parsi-font.php:779
+msgid "Your message was successfully sent. Thanks"
+msgstr "پیام شما با موفقیت ارسال شد. باتشکر"
+
+#: ../parsi-font.php:795
+msgid "Please fill all fields."
+msgstr "لطفا همه زمینه ها را پر کنید."
+
+#: ../parsi-font.php:802
+msgid ""
+"If you want your favorite font to be used in plugin or you have comments or "
+"suggestions please let us know via this form:"
+msgstr ""
+"اگر می خواهید فونت مورد علاقه تان در افزونه قرار گیرد یا پیشنهاد و انتقادی "
+"دارید از طریق این فرم به ما اطلاع دهید:"
+
+#: ../parsi-font.php:808
+msgid "Name"
+msgstr "نام"
+
+#: ../parsi-font.php:812
+msgid "Email"
+msgstr "پست الکترونیکی"
+
+#: ../parsi-font.php:816
+msgid "Subject"
+msgstr "موضوع"
+
+#: ../parsi-font.php:820
+msgid "Your Message"
+msgstr "پیام شما"
+
+#: ../parsi-font.php:824
+msgid "Send"
+msgstr "ارسال"
+
+#: ../parsi-font.php:867
+msgid "MW Font Changer - Theme Font"
+msgstr "فونت ماندگار - فونت پوسته"
+
+#: ../parsi-font.php:872
+msgid "Settings Saved."
+msgstr "تنظیمات ذخیره شدند."
+
+#: ../parsi-font.php:872
+msgid "Close"
+msgstr "بستن"
+
+#: ../parsi-font.php:879
+msgid "Heading Font"
+msgstr "فونت هدینگ ها"
+
+#: ../parsi-font.php:886 ../parsi-font.php:986 ../parsi-font.php:1085
+#: ../parsi-font.php:1188 ../parsi-font.php:1282 ../parsi-font.php:1310
+#: ../parsi-font.php:1404 ../parsi-font.php:1432 ../parsi-font.php:1526
+msgid "None"
+msgstr "هیچ کدام"
+
+#: ../parsi-font.php:973 ../parsi-font.php:1073 ../parsi-font.php:1172
+#: ../parsi-font.php:1275 ../parsi-font.php:1397 ../parsi-font.php:1519
+msgid "Please select font family."
+msgstr "نام فونت را انتخاب کنید."
+
+#: ../parsi-font.php:979
+msgid "Body Font"
+msgstr "فونت بدنه"
+
+#: ../parsi-font.php:1078
+msgid "Adminbar Font"
+msgstr "فونت ادمین بار در صفحه اصلی سایت"
+
+#: ../parsi-font.php:1177
+msgid "Custom class and id 1"
+msgstr "کلاس ها و آی دی های دلخواه 1"
+
+#: ../parsi-font.php:1179 ../parsi-font.php:1301 ../parsi-font.php:1423
+msgid ""
+"Enter theme classes and ids. You can separate theme with latin comma (,)."
+msgstr ""
+"نام کلاس ها و آی دی های مورد نظر خود را وارد کنید. می توانید آن ها را با "
+"کامای لاتین (,) جدا کنید."
+
+#: ../parsi-font.php:1279 ../parsi-font.php:1401 ../parsi-font.php:1523
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+#: ../parsi-font.php:1294 ../parsi-font.php:1416 ../parsi-font.php:1538
+msgid "Please select font size."
+msgstr "اندازه فونت را انتخاب کنید."
+
+#: ../parsi-font.php:1299
+msgid "Custom class and id 2"
+msgstr "کلاس ها و آی دی های دلخواه 2"
+
+#: ../parsi-font.php:1421
+msgid "Custom class and id 3"
+msgstr "کلاس ها و آی دی های دلخواه 3"
+
+#: ../parsi-font.php:1549 ../parsi-font.php:1550
+msgid "Dashboard Font"
+msgstr "فونت پیشخوان"
+
+#: ../parsi-font.php:1549
+msgid "MW Font Changer"
+msgstr "فونت ماندگار"
+
+#: ../parsi-font.php:1551
+msgid "Theme Font"
+msgstr "فونت پوسته"
+
+#: ../parsi-font.php:1552
+msgid "Feedback"
+msgstr "انتقادات و پیشنهادات"
+
+#~ msgid "Parsi Font"
+#~ msgstr "پارسی فونت"
+
+#~ msgid "About"
+#~ msgstr "درباره"
+
+#~ msgid "You can also type a font name here"
+#~ msgstr "نام فونت مورد نظر خود را اینجا وارد نمایید."
+
+#~ msgid "Download fonts"
+#~ msgstr "دریافت فونت ها"
+
+#~ msgid "Plugin Features"
+#~ msgstr "ویژگی های افزونه"
+
+#~ msgid "Beautiful dashboard by changing the font"
+#~ msgstr "زیبا کردن پیشخوان وردپرس با تغییر فونت"
+
+#~ msgid "Select a font from the list of available fonts"
+#~ msgstr "انتخاب فونت از لیست فونت های موجود"
+
+#~ msgid "The user can write the name of the own favorite font."
+#~ msgstr "کاربر می تواند نام فونت دلخواه خود را بنویسد."
+
+#~ msgid "This plugin is developed by Ghaem Omidi."
+#~ msgstr "این افزونه توسط قائم امیدی توسعه داده می شود."
+
+#~ msgid "Dedicated to the all users of WP-Parsi and Mandegarweb."
+#~ msgstr "تقدیم به تمامی کاربران وردپرس پارسی و ماندگار وب"
+
+#, fuzzy
+#~ msgid "Select font size."
+#~ msgstr "- - - اندازه فونت را انتخاب کنید - - -"
+
+#~ msgid "Change font WordPress dashboard"
+#~ msgstr "تغییر فونت پنل مدیریت وردپرس"
